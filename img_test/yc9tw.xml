@@ -1,0 +1,38 @@
+<annotation>
+	<folder>feliz</folder>
+	<filename>yc9tw.png</filename>
+	<path>C:\Users\david.ARCAS\Pictures\Saved Pictures\feliz\yc9tw.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>702</width>
+		<height>702</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feliz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>14</ymin>
+			<xmax>504</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>feliz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>13</ymin>
+			<xmax>674</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

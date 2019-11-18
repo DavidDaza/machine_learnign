@@ -1,0 +1,38 @@
+<annotation>
+	<folder>feliz</folder>
+	<filename>depositphotos_132913240-stock-illustration-smiley-icons-vector-illustration.jpg</filename>
+	<path>C:\Users\david.ARCAS\Pictures\Saved Pictures\feliz\depositphotos_132913240-stock-illustration-smiley-icons-vector-illustration.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feliz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>255</ymin>
+			<xmax>474</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>feliz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>164</ymin>
+			<xmax>565</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

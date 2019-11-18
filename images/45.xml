@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lapiz</folder>
+	<filename>45.jpg</filename>
+	<path>C:\Users\pc-79705\Documents\Images\Lapiz\45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>222</width>
+		<height>227</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lapiz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>9</ymin>
+			<xmax>214</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>entrenamiento</folder>
+	<filename>globos-carita-feliz.jpg</filename>
+	<path>C:\Users\TestHost\Pictures\entrenamiento\globos-carita-feliz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feliz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>155</ymin>
+			<xmax>242</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

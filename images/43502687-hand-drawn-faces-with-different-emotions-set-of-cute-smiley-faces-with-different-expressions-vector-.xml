@@ -1,0 +1,38 @@
+<annotation>
+	<folder>feliz</folder>
+	<filename>43502687-hand-drawn-faces-with-different-emotions-set-of-cute-smiley-faces-with-different-expressions-vector-.jpg</filename>
+	<path>C:\Users\david.ARCAS\Pictures\Saved Pictures\feliz\43502687-hand-drawn-faces-with-different-emotions-set-of-cute-smiley-faces-with-different-expressions-vector-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feliz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>759</xmin>
+			<ymin>852</ymin>
+			<xmax>867</xmax>
+			<ymax>980</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>feliz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>715</xmin>
+			<ymin>792</ymin>
+			<xmax>919</xmax>
+			<ymax>1020</ymax>
+		</bndbox>
+	</object>
+</annotation>
